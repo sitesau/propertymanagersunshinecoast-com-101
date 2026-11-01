@@ -1,0 +1,22 @@
+{
+  "wheel_id": 618,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-com-101",
+  "project": "property-managers-sunshine-coast-beginner-guide-e8279dd3af92130",
+  "parent_t1_ref": "propertymanagersunshinecoast-com-150",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property managers sunshine coast beginner guide",
+  "intended_url": "https://sitesau.github.io/propertymanagersunshinecoast-com-101/",
+  "tier": "T2",
+  "writeback_nonce": "faacc04d4952e294",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/property-managers-sunshine-coast-what-to-expect-0db4e4f5c38b3d2/",
+      "anchor": "https://sites-e470-2.web.app/property-managers-sunshine-coast-what-to-expect-0db4e4f5c38b3d2/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
